@@ -4,7 +4,7 @@
 
 ## 👨‍🔬About Me!
 
-<summary> <strong> I am an Informatics student passionate about data science, I am currently studying at the National university and am pursuing the world of data science and am interested in Machine Learning, Natural Language Processing and Forecasting with Time Series Analysis. I'd like to collaborate with another developer/data enthusiast to do some data science or analytics projects </strong> <summary>
+<summary> <strong> I am a final year student majoring in Informatics who is interested in Artificial Intelligence, Machine Learning, Natural Language Processing, and Forecasting with Time Series Analysis. I can collaborate with other developers or data enthusiasts to work on some data science or analytics projects. </strong> <summary>
 
 ## 🔗 Lets Connect with me!:
 
